@@ -1,4 +1,4 @@
-# cs1302-ce12.5 & cs1302-msfe
+# cs1302-ce13.5 & cs1302-msfe
 
 ![Approved for: Fall 2019](https://img.shields.io/badge/Approved%20for-Fall%202019-brightgreen)
 
